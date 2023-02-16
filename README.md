@@ -3,13 +3,13 @@ The fridge program which gives some advices about meals the owner could cook acc
 
 ![Screenshot](register_program.PNG)
 
+![Screenshot](recipes.PNG)
+
 ![Screenshot](foods.PNG)
 
 ![Screenshot](register.PNG)
 
 ![Screenshot](add_delete.PNG)
-
-![Screenshot](recipes.PNG)
 
 ![Screenshot](meal.PNG)
 
