@@ -2,14 +2,14 @@
 The fridge program which gives some advices about meals the owner could cook according to the fridge contents.
 
 
-![Screenshot](foods.png)
+![Screenshot](foods.PNG)
 
-![Screenshot](register.png)
+![Screenshot](register.PNG)
 
-![Screenshot](add_delete.png)
+![Screenshot](add_delete.PNG)
 
-![Screenshot](recipes.png)
+![Screenshot](recipes.PNG)
 
-![Screenshot](meal.png)
+![Screenshot](meal.PNG)
 
-![Screenshot](register.png)
+![Screenshot](register.PNG)
