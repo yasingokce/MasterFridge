@@ -17,7 +17,9 @@ These are just a few ideas for how to use your clever refrigerator program to co
 
 ## Register or Login screen 
 ![Screenshot](register_program.PNG)
-Username/Email and Password fields: These are the basic components of any login screen. Users should be able to enter their username or email address and their password.
+
+### Username/Email and Password fields: 
+These are the basic components of any login screen. Users should be able to enter their username or email address and their password.
 
 Remember Me checkbox: Including a "Remember Me" checkbox allows users to save their login credentials, so they don't have to enter them every time they want to log in.
 
