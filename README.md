@@ -33,7 +33,19 @@ Security measures: To ensure the security of user data, it's important to includ
 
 When designing your login screen, you'll want to keep it simple and user-friendly. The goal is to make it as easy as possible for users to log in to their accounts while ensuring the security of their data.
 
+## product entry
 ![Screenshot](recipes.PNG)
+
+### Entering products with artificial intelligence
+
+If the project is implemented, the weight of the product can be measured by using a camera and load sensor to detect the product. The camera can capture an image of the product and send it to a computer or microcontroller for analysis. The load sensor can be placed underneath the shelf or container where the product is stored, and it can measure the weight of the product when it is placed on the shelf.
+
+The data from the camera and load sensor can be processed using computer vision algorithms and machine learning models to identify the product and calculate its weight. This information can then be displayed on the user interface, so that the user can see how much of a particular product is left in the refrigerator.
+
+By implementing this technology, users can easily keep track of the quantity of each product in the refrigerator and avoid overstocking or waste. Additionally, it can help users plan their meals and grocery shopping more efficiently.
+
+### manual entry of products
+To add a new food item to your refrigerator, first fill out the form below. Enter the name and type of the food (e.g. apple-fruit), then specify the quantity (e.g. 2 pieces). Finally, select the shelf where you want to add the item and click the "Add" button. Make sure to regularly check the food items in your refrigerator and try to consume the ones with approaching expiration dates to avoid wasting food.
 
 ![Screenshot](add_delete.PNG)
 
