@@ -5,11 +5,11 @@ The fridge program which gives some advices about meals the owner could cook acc
 
 ![Screenshot](recipes.PNG)
 
+![Screenshot](add_delete.PNG)
+
 ![Screenshot](foods.PNG)
 
 ![Screenshot](register.PNG)
-
-![Screenshot](add_delete.PNG)
 
 ![Screenshot](meal.PNG)
 
